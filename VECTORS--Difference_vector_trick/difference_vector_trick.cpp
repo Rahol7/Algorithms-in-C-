@@ -1,8 +1,11 @@
+
 /*
 Question: Given an array of size n initialised with all 0's. You have 'Q' queries. In each query you get two numbers 'L' and 'R'. Increase all values 
 of the array from L to R by 1 in each of the Q queries. Print the output
 
 */
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -36,6 +39,7 @@ int main() {
 	}	
 }
 
+
 /* Run this test case
 
 input format
@@ -47,6 +51,5 @@ input format
 
 output 0 1 2 3 3 2 0
 
-
-
 */
+
